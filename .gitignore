@@ -8,5 +8,6 @@ downloads
 eggs
 parts
 src/*.egg-info
+django_scout.egg-info/
 lib
 lib64
