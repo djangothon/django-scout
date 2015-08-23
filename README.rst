@@ -1,10 +1,9 @@
 =====
 django-scout
 =====
+django-scout is a django package to conduct Web-based survey.
 
-django-scout is a django package to conduct Web-based survey. 
-
-Set of surveys can be created with specified set of questions and answer types.
+The package can handle set of operations such as creating survey, adding different type of questions to the survey(image, text, number, location-lat-lng, choices, etc), analyzing and visualizing the surveys response.
 
 Quick start
 -----------
